@@ -11,7 +11,7 @@ tags:
 Welcome to my twisted realms of Faerûn and beyond. No fluff, just the stuff you need. 
 
 ---
-
+[[ОГНЕСТРЕЛЬНОЕ ОРУЖИЕ]]
 ## Table of Contents
 
 1. **[Campaign Status](obsidian://vault/YOUR_VAULT_NAME/Campaign_Status)**
