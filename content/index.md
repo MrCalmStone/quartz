@@ -39,7 +39,7 @@ Welcome to my twisted realms of Faerûn and beyond. No fluff, just the stuff you
     - [Side Quests](obsidian://vault/YOUR_VAULT_NAME/Side_Quests)
 
 ---
-
+<table> <thead> <tr> <th>Предмет</th> <th>Стоимость</th> <th>Урон</th> <th>Вес</th> <th>Свойства</th> </tr> </thead> <tbody> <tr> <td colspan="5"><b>Простое дальнобойное оружие</b></td> </tr> <tr> <td>Мушкетон</td> <td>20 зм</td> <td>2к4 колющий</td> <td>10 фнт.</td> <td>Боеприпас (дис. 20), Ствол 2 (М), Треск, Разброс стрельбы, Сдвоенный ствол, Двуручное</td> </tr> <!-- ... и так далее --> </tbody> </table>
 ## How To Use This Guide
 
 Dive into the sections above as you need 'em. No need for hand-holding here. This is more of a reference tome than a novel, so don't expect any poetic fluff. Look up what you need, ignore the rest.
